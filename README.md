@@ -14,3 +14,12 @@
 
 ### [Dataset](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing)
 
+# Task 3 Exploratory Data Analysis - Retail
+
+### Problem Statement- Try to find out the weak areas where you can work to make more profit.
+
+### Concept- Data Analysis
+
+### [Dataset](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view?usp=sharing)
+
+
