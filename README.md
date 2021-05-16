@@ -30,4 +30,12 @@
 
 ### [Dataset](https://drive.google.com/file/d/18iDDIIZGt8eWxzqbyMIqcn5X7bHINuLw/view?usp=sharing)
 
+ # Task 5 Exploratory Data Analysis - Terrorism
+
+### Problem Statement- Try to find out the hot zone of terrorism.
+
+### Concept- Data Analysis
+
+### [Dataset](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view?usp=sharing)
+
 
