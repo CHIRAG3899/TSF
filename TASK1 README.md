@@ -1,15 +1,16 @@
 # Task 1 Prediction using Supervised ML
 
-## By: Chirag Goel
+### Problem Statement- Predict the percentage of an student based on the no. of study hours.
 
-### This task will predict the percentage of student based on the study hours using supervised ML (Linear Regression) that must completed as an intern at The Sparks Foundation.
+### Concept- Supervised Learning using Linear Regression
 
-### The Spark Foundation is an organisation with mission is to inspire students, help them innovate and let them integrate to build the next generation humankind with a vision of a world of enabled and connected little minds that build the future.
+### [Dataset](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
 
-### The data was provided by The  Spark Foundation- [Dataset](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+# Task 2 Prediction using Unsupervised ML
 
-## Visualization
-### The linear regression
+### Problem Statement-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
-## Prediction
-### The question that given by The Spark Foundation: What will be predicted score if a student studies for 9.25 hrs/ day?
+### Concept- Prediction using Unsupervised ML with the help of K-Means clustering
+
+### [Dataset](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing)
+
